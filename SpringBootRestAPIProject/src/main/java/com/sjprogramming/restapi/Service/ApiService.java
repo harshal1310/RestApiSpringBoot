@@ -25,7 +25,7 @@ public class ApiService {
 
             // Set up the headers
             HttpHeaders headers = new HttpHeaders();
-            headers.set("X-CMC_PRO_API_KEY", API_KEY);  // Corrected header key
+            headers.set("X-CMC_PRO_API_KEY", API_KEY);
 
             HttpEntity<String> entity = new HttpEntity<>(headers);
 
