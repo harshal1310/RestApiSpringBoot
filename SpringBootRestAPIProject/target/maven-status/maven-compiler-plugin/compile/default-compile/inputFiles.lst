@@ -1,12 +1,9 @@
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/entity/User.java
-/Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/controller/StudentControler.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/controller/UserController.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/entity/ApiResponseEntity.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/controller/ApiController.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/Service/ApiService.java
-/Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/repository/StudentRepository.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/repository/UserRepository.java
-/Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/entity/Student.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/SpringBootRestApiProjectApplication.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/Service/UserService.java
 /Users/harshal.gosavi/Downloads/spring-boot-tutorials-master/SpringBootRestAPIProject/src/main/java/com/sjprogramming/restapi/repository/ApiRepository.java
